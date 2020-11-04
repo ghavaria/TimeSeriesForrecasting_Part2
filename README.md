@@ -1,6 +1,6 @@
 # TimeSeriesForrecasting_Part2
 
-In an autoregressive model, the regression technique is used to formulate a time series problem. In order to implement autoregressive models, we forecast future observations using a linear combination of past observations of the same variable, i.e., to predict the 
+##### In an autoregressive model, the regression technique is used to formulate a time series problem. In order to implement autoregressive models, we forecast future observations using a linear combination of past observations of the same variable, i.e., to predict the 
 ^
 y
 t
