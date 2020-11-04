@@ -21,11 +21,11 @@ t
 
 ### techniques covered
 
--Stationarity
--Stationarity test
--Importance of stationarity
--Non-stationarity to stationarity
--Autocorrelation function 
--Partial autocorrelation function
--Auto-regressive model
--Moving average model
+- Stationarity
+- Stationarity test
+- Importance of stationarity
+- Non-stationarity to stationarity
+- Autocorrelation function 
+- Partial autocorrelation function
+- Auto-regressive model
+- Moving average model
